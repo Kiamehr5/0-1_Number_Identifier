@@ -24,7 +24,7 @@ Clone the repository:
 `pip install numpy scikit-learn opencv-python matplotlib`
 
 ## 🔹 Usage
-Run **Number_Identifier_Perceptron.ipynb** via **Google Colab** or **Jupyter Notebook**.
+Run **Number_Identifier_Perceptron.ipynb** or **Number_Identifier_Perceptron.py** via **Google Colab** or **Jupyter Notebook**.
 
 ## 🔹 How It Works
 
